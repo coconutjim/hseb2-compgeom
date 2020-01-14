@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="pr7:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="pr7.jar">
+      <element id="module-output" name="pr7" />
+    </root>
+  </artifact>
+</component>

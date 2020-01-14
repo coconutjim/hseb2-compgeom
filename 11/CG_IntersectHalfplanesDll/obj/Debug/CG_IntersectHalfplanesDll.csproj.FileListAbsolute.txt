@@ -1,0 +1,5 @@
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanesDll\bin\Debug\CG_IntersectHalfplanesDll.dll
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanesDll\bin\Debug\CG_IntersectHalfplanesDll.pdb
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanesDll\obj\Debug\CG_IntersectHalfplanesDll.csprojResolveAssemblyReference.cache
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanesDll\obj\Debug\CG_IntersectHalfplanesDll.dll
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanesDll\obj\Debug\CG_IntersectHalfplanesDll.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanes\bin\Debug\CG_IntersectHalfplanes.exe.config
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanes\bin\Debug\CG_IntersectHalfplanes.exe
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanes\bin\Debug\CG_IntersectHalfplanes.pdb
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanes\bin\Debug\CG_IntersectHalfplanesDll.dll
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanes\bin\Debug\CG_IntersectHalfplanesDll.pdb
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanes\obj\Debug\CG_IntersectHalfplanes.csprojResolveAssemblyReference.cache
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanes\obj\Debug\CG_IntersectHalfplanes.Form1.resources
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanes\obj\Debug\CG_IntersectHalfplanes.Properties.Resources.resources
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanes\obj\Debug\CG_IntersectHalfplanes.csproj.GenerateResource.Cache
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanes\obj\Debug\CG_IntersectHalfplanes.exe
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\compgeom\11\CG_IntersectHalfplanes\obj\Debug\CG_IntersectHalfplanes.pdb
