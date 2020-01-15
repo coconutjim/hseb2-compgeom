@@ -1,0 +1,5 @@
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayDll\bin\Debug\CG_MapOverlayDll.dll
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayDll\bin\Debug\CG_MapOverlayDll.pdb
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayDll\obj\Debug\CG_MapOverlayDll.csprojResolveAssemblyReference.cache
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayDll\obj\Debug\CG_MapOverlayDll.dll
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayDll\obj\Debug\CG_MapOverlayDll.pdb

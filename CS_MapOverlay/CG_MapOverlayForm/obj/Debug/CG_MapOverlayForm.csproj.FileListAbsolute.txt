@@ -1,0 +1,14 @@
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayForm\bin\Debug\CG_MapOverlayForm.exe.config
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayForm\bin\Debug\CG_MapOverlayForm.exe
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayForm\bin\Debug\CG_MapOverlayForm.pdb
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayForm\bin\Debug\CG_MapOverlayDll.dll
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayForm\bin\Debug\CG_MapOverlayDll.pdb
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayForm\obj\Debug\CG_MapOverlayForm.csprojResolveAssemblyReference.cache
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayForm\obj\Debug\CG_MapOverlayForm.Form1.resources
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayForm\obj\Debug\CG_MapOverlayForm.Properties.Resources.resources
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayForm\obj\Debug\CG_MapOverlayForm.csproj.GenerateResource.Cache
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayForm\obj\Debug\CG_MapOverlayForm.exe
+Z:\Dropbox\Public\HSE_2course\ComputingGeom\CG_MapOverlayNew\CG_MapOverlayForm\obj\Debug\CG_MapOverlayForm.pdb
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\ва\CG_MapOverlayForm\bin\Debug\CG_MapOverlayForm.exe.config
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\ва\CG_MapOverlayForm\obj\Debug\CG_MapOverlayForm.exe
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\ва\CG_MapOverlayForm\obj\Debug\CG_MapOverlayForm.pdb
