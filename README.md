@@ -1,5 +1,5 @@
 # hseb3-compgeom
-2014\. Study projects. Computational geometry algorithms with dynamic vusialization implemented in Java.
+2014\. Study projects. Computational geometry algorithms with dynamic visualization implemented in Java.
 ## Features
 1. Vector intersection
 2. Graham scan
